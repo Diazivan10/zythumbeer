@@ -1,9 +1,10 @@
 @import url("reset.css");
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
 
 
 body{
-    font-family: 'poppins', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     min-height: 100vh;
     background: linear-gradient(168.3deg, #05050B 8.58%, #D95204 27.29%, #141317 49.85%, #D95204 71.83%, #D95204 91.42%);
     display: flex;
